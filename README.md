@@ -2,6 +2,6 @@
 
 Hey. Name's Lojemiru. I'm a hobbyist game developer, occasional musician, and aspiring cybersecurity major (or whatever it is that college students who want to pretend their degree is meaningful say).
 
-I'm currently leading development for the [AM2R Community Updates](https://www.github.com/AM2R-Community-Developers) and working on some personal projects. I ~~primarily develop games in~~ suffer through GameMaker: Studio 2 because I have a few projects committed to it, but I'm preparing a general development transition to MonoGame.
+I'm currently leading development for the [AM2R Community Updates](https://www.github.com/AM2R-Community-Developers) and working on some personal projects. I used to develop in GameMaker Studio 2, and am now developing my own engine based on the MonoGame framework.
 
 That's it, that's the README. Go look at a repository or get off my abstract digital lawn.
